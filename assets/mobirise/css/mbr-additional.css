@@ -1235,13 +1235,13 @@ section.lazy-placeholder:after {
   background: rgba(206, 206, 206, 0.4);
 }
 .cid-rWaxrJmERX progress::-webkit-progress-value {
-  background: #149dcc;
+  background: #bf318e;
 }
 .cid-rWaxrJmERX progress[value]::-moz-progress-bar {
-  background: #149dcc;
+  background: #bf318e;
 }
 .cid-rWaxrJmERX progress::-ms-fill {
-  background: #149dcc;
+  background: #bf318e;
 }
 .cid-rWaxrJmERX .progress1 .progressbar-number:before {
   content: '94';
