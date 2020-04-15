@@ -1128,7 +1128,7 @@ section.lazy-placeholder:after {
   height: 72px;
   font-size: 36px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #2e2e2e;
   padding-bottom: 0;
 }
 @media (min-width: 768px) {
@@ -1142,7 +1142,7 @@ section.lazy-placeholder:after {
     content: "";
     height: 2px;
     width: calc(50% + 15px - 36px - 8px);
-    background-color: #efefef;
+    background-color: #2e2e2e;
   }
   .cid-rWakb8B6vB .separline .step-wrapper:before {
     left: -15px;
@@ -1163,7 +1163,7 @@ section.lazy-placeholder:after {
 }
 .cid-rWdMK5D2rm {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 .cid-rWdMK5D2rm h3 {
@@ -1190,14 +1190,14 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rWaLjraweM {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
 }
 .cid-rWaxrJmERX {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #ffffff;
 }
 .cid-rWaxrJmERX .progress {
   width: 100%;
@@ -1210,7 +1210,7 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rWaxrJmERX .mbr-section-subtitle {
-  color: #ffffff;
+  color: #2e2e2e;
 }
 .cid-rWaxrJmERX .progress_value {
   position: relative;
@@ -1267,16 +1267,16 @@ section.lazy-placeholder:after {
   padding-left: 30px;
 }
 .cid-rWaxrJmERX .mbr-section-title {
-  color: #ffffff;
+  color: #2e2e2e;
 }
 .cid-rWaxrJmERX .progressbar-title p,
 .cid-rWaxrJmERX .progress_value {
-  color: #ffffff;
+  color: #2e2e2e;
 }
 .cid-rWasKcpulX {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-rWasKcpulX .carousel-item {
   justify-content: center;
@@ -1324,9 +1324,13 @@ section.lazy-placeholder:after {
 }
 .cid-rWasKcpulX .user_text {
   text-align: center;
+  color: #ffffff;
 }
-.cid-rWdHDjxMyp {
-  padding-top: 0px;
+.cid-rWasKcpulX H2 {
+  color: #ffffff;
+}
+.cid-rWdSHofmpR {
+  padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
