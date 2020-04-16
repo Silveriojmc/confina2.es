@@ -42,7 +42,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 39,
+    "uniqCompNum": 48,
     "versionPublish": "4.12.2",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -75,7 +75,8 @@
         "meta_descr": "¿Quieres seguir conociendo gente durante el confinamiento? Haz nuestro test. Cada día recIbirás el insta de una persona distinta!  Sé responsable, #QUÉDATEENCASACONFINA2",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/1.1-1-500x500.png"
       },
       "components": [
         {
